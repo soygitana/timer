@@ -57,6 +57,19 @@ body {
         background-position: 500px 1000px, 400px 400px, 300px 300px;
     }
 }
+
+
+.text {
+    width: 700px;
+    height: 200px;
+    text-align: center;
+
+}
+
+.numbers {
+    width: 500px;
+    height: 200px;
+    text-align: center;
 }
 
 .d {
