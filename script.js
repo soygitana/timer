@@ -1,4 +1,4 @@
-const endTime = new Date('2018-12-24 00:00:00').getTime();
+const endTime = new Date('2019-12-24 00:00:00').getTime();
 
 const spanD = document.querySelector('span.d');
 const spanH = document.querySelector('span.h');
